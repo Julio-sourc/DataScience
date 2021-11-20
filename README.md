@@ -10,8 +10,5 @@ Leitura e apresentação de dados
 * https://github.com/Julio-sourc/DataScience/blob/master/Pandas.py
 
 # Autor
-* José Julio R. de Melo RA: 621201060
-* Luana Macedo da Silva RA: 621200956
-* Jhonathan da Silva Brito RA: 621200252
-* Paulo Victor Caminha de Oliveira RA: 621201939
-* Matheus Pereira da Silva RA: 621200958
+* José Julio R. de Melo
+
